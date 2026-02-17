@@ -1,2 +1,2 @@
 # Describe2DatabaseModel
-Describe2DatabaseModel : D2DModel, is a dudy model tool converter from SQL Describe table column to another schema.
+Describe2DatabaseModel : D2DModel, is a dud model tool converter from SQL Describe table column to another useful schema.
